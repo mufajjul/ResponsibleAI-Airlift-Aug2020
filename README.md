@@ -33,11 +33,11 @@ You are expected to set-up your environment prior to attending the session. Plea
 
 Lab 1. Interpretability with glassbox models (EBM) [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/EBM/Interpretable%20Classification%20Methods.ipynb)
 
-Lab 2. Explain blackbox models with SHAP (and upload explanations to Azure Machine Learning) [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/SHAP/explain-model-SHAP.ipynb)
+Lab 2a. Explain blackbox models with SHAP (and upload explanations to Azure Machine Learning) [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/SHAP/explain-model-SHAP.ipynb)
 
-Lab 3. Run Interpretability on Azure Machine  [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/SHAP/explain-model-Azure.ipynb)
+Lab 2b. Run Interpretability on Azure Machine  [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/SHAP/explain-model-Azure.ipynb) (optional)
 
-Lab 4. Model fairness assessment and unfairness mitigation [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/Fairness/AI-fairness-Census.ipynb)
+Lab 3. Model fairness assessment and unfairness mitigation [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/Fairness/AI-fairness-Census.ipynb)
 
 
 ## Slides
