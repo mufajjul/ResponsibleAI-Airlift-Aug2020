@@ -24,7 +24,15 @@ CSAs, DS
 If you do not have a subscription, you can create a free account by going to this link [free azure account](https://azure.microsoft.com/en-gb/free/search/?&OCID=AID2000125_SEM_Xvn0NgAAAQ0pAAG6:20200629090126:s&msclkid=9c0eb6425d2b1b0b16dee8bba9187880&ef_id=Xvn0NgAAAQ0pAAG6:20200629090126:s&dclid=CLygivWXp-oCFUruUQod3UIHtA)
 
 ### Environment Setup 
-You are expected to set-up your environment prior to attending the session. Please follow the instruction below. 
+You are expected to set-up your environment prior to attending the session. You need the followings:
+
+1. Maching Learning Workspace 
+    2. Compute Instance provisioned 
+    3. Compute Cluster (single node) provisioned
+
+Please follow the instruction below.
+
+You can use the GUI to setup with workspace [(Click here)](https://ml.azure.com/), or
 
 ### Machine learning create workspace using ARM ([Click here](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/tree/master/environment))
 
