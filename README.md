@@ -27,8 +27,8 @@ If you do not have a subscription, you can create a free account by going to thi
 You are expected to set-up your environment prior to attending the session. You need the followings:
 
 1. Maching Learning Workspace 
-    2. Compute Instance provisioned 
-    3. Compute Cluster (single node) provisioned
+2. Compute Instance (in AML workspace) 
+3. Compute Cluster (single node) (in AML workspace)
 
 Please follow the instruction below.
 
