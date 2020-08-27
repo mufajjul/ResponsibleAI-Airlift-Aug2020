@@ -32,9 +32,9 @@ You are expected to set-up your environment prior to attending the session. You 
 
 Please follow the instruction below.
 
-You can use the GUI to setup with workspace [(Click here)](https://ml.azure.com/), or
-
 ### Machine learning create workspace using ARM ([Click here](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/tree/master/environment))
+
+Or, you can use the GUI to setup the AML Workspace [(Click here)](https://ml.azure.com/)
 
 ---
 ## Labs 
