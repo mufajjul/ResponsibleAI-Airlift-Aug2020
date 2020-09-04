@@ -6,7 +6,7 @@ Please follow the following steps to clone the Responsible AI Github Repo to you
 
 Click on compute Icon on the left pane (this will open three tabs, the first tab is "compute instance"), under application URI, click on Jupyter lab.  
 
-![Screen](images/step1.png
+![alt text](images/step1.png
 
 This will launch Jupyter Lab Workspace 
 
@@ -15,7 +15,7 @@ This will launch Jupyter Lab Workspace
 
 Click on the "Terminal" icon under other on the launcher tab. 
 
-![Screen](images/step2.png
+![alt text](images/step2.png
 
 This will open up the terminal 
 
@@ -28,7 +28,7 @@ cd User/your alias
 
 git clone https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020
 
-![Screen](images/step3.png
+![alt text](images/step3.png
 
 This will clone the repo in your home directory.  
 
