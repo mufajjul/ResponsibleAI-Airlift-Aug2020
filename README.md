@@ -40,7 +40,7 @@ Or, you can use the GUI to setup the AML Workspace [(Click here)](https://ml.azu
 
 https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020
 
-Please follow the instruction on this link  ([Click here])(https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/tree/master/environment/git-clone) 
+Please follow the instruction on this link  [(Click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/tree/master/environment/git-clone) 
 
 ---
 ## Labs 
