@@ -1,4 +1,4 @@
-# Clone git repo in your AML Compute Cluster
+# Clone git repo in your AML Compute Instance
 
 Please follow the following steps to clone the Responsible AI Github Repo to your environment.
 
@@ -12,7 +12,6 @@ This will launch Jupyter Lab Workspace
 ![alt text](images/step1.png)
 
 
-
 ## Step 2: Launch Terminal
 
 Click on the "Terminal" icon under other on the launcher tab. 
@@ -20,7 +19,6 @@ Click on the "Terminal" icon under other on the launcher tab.
 This will open up the terminal 
 
 ![alt text](images/step2.png)
-
 
 
 ## Step 3: Clone Repo
