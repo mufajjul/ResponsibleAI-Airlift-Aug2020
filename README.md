@@ -78,4 +78,9 @@ The slides are available on the following link [Slides](()
 
 # Feedback 
 
-**Please provide feedback by visiting this link: [click here ](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRy65IxdWegNLmkUZoFUsoatUMko0SjZKSjFMNjFIUzQ0Q0RENTkzWlFDNS4u)**
+**Please provide feedback by visiting this link: [(click here) ](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_9hazCQxTxIoxmc5_hnHc1URTdLVE8wNkVWV0pQMTZZRVM2T1VPVEFKSy4u)**
+
+---
+
+# Acknowledgement 
+Contents for this workshop is taken from the Microsoft ResponsbileAI-Airlift [(click here) ](https://github.com/microsoft/ResponsibleAI-Airlift)
