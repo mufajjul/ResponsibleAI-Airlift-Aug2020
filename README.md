@@ -38,8 +38,6 @@ Or, you can use the GUI to setup the AML Workspace [(Click here)](https://ml.azu
 
 ### Clone repo in your Compute Instance 
 
-https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020
-
 Please follow the instruction on this link  [(Click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/tree/master/environment/git-clone) 
 
 ---
@@ -53,9 +51,8 @@ Lab 2b. Run Interpretability on Azure Machine  [(click here)](https://github.com
 
 Lab 3. Model fairness assessment and unfairness mitigation [(click here)](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/Fairness/AI-fairness-Census.ipynb)
 
-
 ## Slides
-The slides are available on the following link [Slides](()
+The slides are available on the following link [click here](https://github.com/mufajjul/ResponsibleAI-Airlift-Aug2020/blob/master/Slides)
 
 ## Useful Links
 ### Interpretability
